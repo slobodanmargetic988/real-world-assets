@@ -187,6 +187,51 @@ body {
   color: white;
 }
 
+.properties .properties-filters {
+  align-items: stretch;
+}
+
+.properties .properties-filter-input {
+  height: 46px;
+  padding-top: 0.45rem;
+  padding-bottom: 0.45rem;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+
+.properties .properties-filter-input::placeholder {
+  color: #fff;
+  opacity: 1;
+}
+
+.properties .properties-filter-input:focus {
+  box-shadow: none;
+  border-color: #545b79;
+}
+
+.properties .properties-filter-number::-webkit-outer-spin-button,
+.properties .properties-filter-number::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.properties .properties-filter-number[type="number"] {
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+
+.properties .properties-filter-reset {
+  height: 46px;
+  min-width: 110px;
+  padding: 0 1rem;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+
+.properties .properties-filter-reset:disabled {
+  opacity: 0.65;
+}
+
 .like {
   position: absolute;
   color: white;
