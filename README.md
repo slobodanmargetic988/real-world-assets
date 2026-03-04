@@ -1,3 +1,7 @@
+# THIS REPO CONTAINS MALICIOS CODE it is here for investigation purposes only. 
+# DO NOT  DOWNLOAD OR RUN THIS CODE
+# DO NOT  DOWNLOAD OR RUN THIS CODE
+
 # RealFraction 🏠
 
 **RealFraction** is a modern, responsive real estate platform designed to streamline the digital housing marketplace. Built with a premium aesthetic and a robust full-stack architecture, it allows users to discover, list, and transact properties with ease and security.
@@ -81,4 +85,5 @@ npm start
 
 ## ⚖️ License
 This project is licensed under the MIT License.
+
 
